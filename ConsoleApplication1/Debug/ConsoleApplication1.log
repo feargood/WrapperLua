@@ -1,0 +1,18 @@
+﻿Der Buildvorgang wurde am 03.05.2014 14:08:19 gestartet.
+     1>Projekt "C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\ConsoleApplication1\ConsoleApplication1.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\LuaDLL_Test.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\lua-5.2.3-net.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib LuaDllTest.cpp stdafx.cpp
+         LuaDllTest.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Torsten\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\LuaDLL_Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\LuaDLL_Test.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\LuaDllTest.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ConsoleApplication1.vcxproj -> C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\LuaDLL_Test.exe
+     1>Die Erstellung des Projekts "C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\ConsoleApplication1\ConsoleApplication1.vcxproj" ist abgeschlossen, Rebuild Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:02.11

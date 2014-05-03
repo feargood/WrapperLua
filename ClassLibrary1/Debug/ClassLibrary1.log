@@ -1,0 +1,24 @@
+﻿Der Buildvorgang wurde am 03.05.2014 14:08:18 gestartet.
+     1>Projekt "C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\ClassLibrary1\ClassLibrary1.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\lua 5.2.3 Net" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\lua-5.2.3-net.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp WrapperLua.cpp Stdafx.cpp
+         AssemblyInfo.cpp
+         WrapperLua.cpp
+         Stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\lua 5.2.3 Net" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Torsten\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\lua-5.2.3-net.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\lua-5.2.3-net.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\WrapperLua.obj
+         Debug\Stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         "C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\Lua 5.2.3.lib"
+         ClassLibrary1.vcxproj -> C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\Debug\lua-5.2.3-net.dll
+     1>Die Erstellung des Projekts "C:\Users\Torsten\Documents\Visual Studio 2012\Projects\Lua 5.2.3 Net\ClassLibrary1\ClassLibrary1.vcxproj" ist abgeschlossen, Rebuild Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.29
